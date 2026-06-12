@@ -35,7 +35,7 @@ Emotion labels:
 
 ---
 
-## Model Architecture
+## Model Architecture ([Visualization](MultimodalArchitectureDiagram.png))
 
 ### Text Encoder
 - RoBERTa transformer model
