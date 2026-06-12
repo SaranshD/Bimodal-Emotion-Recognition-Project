@@ -1,6 +1,6 @@
 # Bimodal Emotion Recognition Project (using the MELD dataset)
 
-This project implements a multimodal emotion recognition system for conversational data using the MELD dataset. The model combines textual and acoustic information to classify emotions at the utterance level in multi-party dialogues.
+This project implements a bimodal emotion recognition system for conversational data using the MELD dataset. The model combines textual and acoustic information to classify emotions at the utterance level in multi-party dialogues.
 
 ## Overview
 
