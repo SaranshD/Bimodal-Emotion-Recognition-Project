@@ -77,7 +77,7 @@ Emotion labels:
 - Environment: Google Colab (T4 GPU)
 - Optimizer: AdamW
 - Learning rate: `1e-5`
-- Epochs: 3 (typical experiments)
+- Epochs: 10 (early stopping enabled with patience of 2, validation set weighted f1 used to determine best model)
 - Mixed precision training (fp16 enabled)
 
 ---
